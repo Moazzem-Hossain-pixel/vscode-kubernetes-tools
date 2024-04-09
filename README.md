@@ -1,4 +1,4 @@
-# Visual Studio Code Kubernetes Tools
+ch# Visual Studio Code Kubernetes Tools
 [![Build Status](https://travis-ci.org/Azure/vscode-kubernetes-tools.svg?branch=master)](https://travis-ci.org/Azure/vscode-kubernetes-tools)
 
 The extension for developers building applications to run in Kubernetes clusters
